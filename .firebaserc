@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "testing": "chat-o-9c442",
+    "default": "chat-o-9c442",
+    "devfchat": "devfchat-fc4e3"
+  }
+}
